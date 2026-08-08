@@ -5,7 +5,7 @@ Official implementation of **RAVEN: Erasing Invisible Watermarks via Novel View 
 
 RAVEN is a zero-shot diffusion-based framework for evaluating the robustness of invisible image watermarks through semantic-preserving novel view synthesis.
 
-🚧 **We are currently testing RAVEN on Google SynthID. Stay tuned!**
+🚧 **We are testing RAVEN on Google SynthID and preparing to submit our SynthID-related findings to the Google Security Bounty program. We plan to release the RAVEN code afterward**
 
 ## Updates
 
